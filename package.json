@@ -1,0 +1,9 @@
+{
+  "name": "record-entry-plugin",
+  "version": "1.0.0",
+  "description": "record the list of entry files in the json file",
+  "main": "src/index.js",
+  "repository": "git@github.com:xingzhichen/record-entry-plugin.git",
+  "author": "xingzhichen <xingzhichenshuai@gmail.com>",
+  "license": "MIT"
+}
