@@ -1,6 +1,6 @@
 <div align="center">
 
-[![NPM version](https://img.shields.io/npm/v/record-entry-plugin)](https://www.npmjs.com/package/common-config-webpack-plugin)
+[![NPM version](https://img.shields.io/npm/v/record-entry-plugin)](https://www.npmjs.com/package/record-entry-plugin)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](http://opensource.org/licenses/MIT)
 
 # record-entry-plugin
